@@ -2,7 +2,7 @@
 A palavra Senet significa passagem, e este jogo simboliza a viagem para o mundo dos mortos. Assim, encontram-se representações de pessoas a jogar ao Senet contra um adversário ausente nos monumentos fúnebres. A ausência de adversário humano indica a presença de Osíris, deus do além. O jogo é considerado o antepassado egípcio do Gamão e os tabuleiros mais antigos encontrados têm cerca de 5000 anos.
 
 # Criação do código
-O código foi feito enquanto estava no primeiro semestre do curso de Engenharia de Computação, para a disciplina de Laboratório de Programação, e, portanto, possui possíveis erros e pode não ser o mais eficiente possível, mas foi feito com carinho :).
+O código foi feito, usando a linguagem C, enquanto eu estava no primeiro semestre do curso de Engenharia de Computação na Universidade Federal de Itajubá (Unifei), para a disciplina de Laboratório de Programação, e, portanto, possui possíveis erros e pode não ser o mais eficiente possível, mas foi feito com carinho :).
 
 # O jogo
 O jogo consiste em um tabuleiro com 30 casas, 3 linhas com 10 colunas, no qual já estão posicionadas as 5 peças de cada jogador na primeira linha. O objetivo do jogo é fazer com que as peças avancem as casas até saírem do tabuleiro e, ao retirar todas as peças, o jogador vence. Para a movimentação das peças é utilizado um sistema de sorteio rudimentar, com o uso de estiletes, que são pedaços de madeira com duas faces, simulando um dado de duas faces. São jogados 4 estiletes por rodada, e a soma é feita a partir da quantidade de faces planas viradas para cima, sendo que quando não houver nenhuma a soma será 6.
