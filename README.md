@@ -1,0 +1,2 @@
+# Senet
+A palavra Senet significa passagem, e este jogo simboliza a viagem para o mundo dos mortos. Assim, encontram-se representações de pessoas a jogar ao Senet contra um adversário ausente nos monumentos fúnebres. A ausência de adversário humano indica a presença de Osíris, deus do além. O jogo é considerado o antepassado egípcio do Gamão e os tabuleiros mais antigos encontrados têm cerca de 5000 anos.
